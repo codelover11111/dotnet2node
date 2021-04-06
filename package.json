@@ -1,0 +1,11 @@
+{
+  "name": "hew_backend",
+  "version": "1.0.0",
+  "description": "This is HEW Node Backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "XXX",
+  "license": "ISC"
+}
